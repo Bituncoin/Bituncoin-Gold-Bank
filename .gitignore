@@ -1,0 +1,59 @@
+# Binaries
+bin/
+*.exe
+*.dll
+*.so
+*.dylib
+
+# .NET build artifacts
+obj/
+*.user
+*.suo
+publish/
+
+# Test binary
+*.test
+
+# Output of the go coverage tool
+*.out
+
+# Data directory
+data/
+*.db
+
+# Logs
+logs/
+*.log
+
+# Node modules
+node_modules/
+package-lock.json
+yarn.lock
+
+# Build outputs
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+__pycache__/
+*.pyc
+
+# Secrets
+.env
+*.key
+*.pem
+secrets/
