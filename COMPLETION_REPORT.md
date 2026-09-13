@@ -107,7 +107,7 @@ We have successfully implemented a comprehensive, enterprise-grade cryptocurrenc
 ## File Structure
 
 ```
-Bituncoin/
+BituncoinGold/
 ├── wallet/                    # Comprehensive wallet system
 │   ├── portfolio.go          # Multi-currency portfolio (137 lines)
 │   ├── transactions.go       # Transaction history (163 lines)
